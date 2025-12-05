@@ -1,0 +1,4176 @@
+{
+    "train":[
+
+  {
+    "Email_Text": "URGENT: FINAL REMINDER to claim your FREE travel voucher. This offer expires in 4 hours! Click the link or lose out forever.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Dear Customer, we noticed unusual activity on your account. To prevent unauthorized access, please click the security link immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I am writing to confirm my attendance at the budget review meeting scheduled for Monday at 10 AM. I have attached the latest figures.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Project Andromeda Status: Phase 2 milestones achieved. Next steps involve API integration testing. Will update team by EOD.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "HUGE DISCOUNT! Get 90% OFF medication from our secret offshore pharmacy. No prescription needed. Best prices guaranteed.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Hey Mark, are you free for coffee sometime next week? It's been too long! Let me know what days work best for you.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WINNERS ANNOUNCEMENT! Your email address was selected for a cash prize. Send your social security number and date of birth to verify.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Please remember to fill out your time sheet by Friday afternoon so payroll can be processed on time. It's mandatory.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Transfer Notification: A payment of $5,000 has been successfully deposited into your linked account. Reference ID: TXN49872.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INVEST NOW! Minimum investment of $100 will return 10X in less than one month. THIS IS NOT A JOKE. LIMITED SPOTS AVAILABLE.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Re: Order #6789. Your package has shipped and is scheduled for delivery via USPS tomorrow. Tracking number is 987654321.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Can we postpone the call until 3 PM? Something critical came up on my side. Apologies for the late notice.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Congratulations, you have been selected for a government grant! To receive the funds, simply pay a small processing fee of $99.99 now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Click here to instantly UNLOCK secret photos and videos you won't believe. Must be 18+.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just confirming that I received the documents and everything looks good. I'll forward them to legal for final review.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Final notice before we close your account due to an outstanding balance. Pay now to avoid legal action. Click here.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking forward to presenting the findings at the weekly sync-up. See you all at 9 AM in the usual room.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE SALE! Limited stock of the newest gadget. Click the link to secure yours before they run out. Don't miss this opportunity!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Got your email about the party next Saturday. Sounds great! I'll bring the chips and dip.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a non-secured personal loan up to $50,000. Low interest rates! Apply TODAY!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the draft press release for your review. Please give me any major changes by tomorrow morning.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your subscription is about to expire. Renew now to continue accessing premium content. Renewal link included.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "ATTENTION!!! We need your password immediately for a system upgrade. Failure to comply will result in system lockout.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Meeting Notes: Key takeaways from the Q4 planning session have been uploaded to the shared drive. Check file 'Q4_Plan_v3'.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a secret opportunity only for VIP members. Enter your credit card details to access the hidden treasure chest.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Do you need HELP with your taxes? Our specialist team can reduce your tax burden by up to 75%! Call 1-800-CHEAPTAX.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Thanks for sending over the contract draft. I'll review it over the weekend and get back to you with comments on Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I am traveling next week so I won't be able to make the team lunch. Have fun, and I'll catch up with everyone when I get back.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET A FREE IPHONE 15! Just click this link and complete a short survey to win. Limited units available.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The quarterly performance review documents are ready for sign-off in the HR portal. Please sign by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Regarding the data breach reported yesterday, our security team is actively investigating. We will provide updates as they become available.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your package could not be delivered due to an incorrect address. Update your shipping information immediately to reschedule delivery.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Hello from the alumni association! We'd love to invite you to our annual fundraising gala next month. Details attached.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GUARANTEED TO WORK! Exclusive weight loss pill endorsed by celebrities. Burn fat fast without diet or exercise.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Could you please check on the status of that pending order? The client is asking for an ETA.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Did you see the weather forecast? Looks like rain tomorrow. Don't forget your umbrella!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are pre-qualified for a life-changing credit card. 0% APR for life! Just need your SSN to start.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to discuss the new feature implementation. Can we grab 15 minutes this afternoon? I'm free after 2 PM.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is NOT a hoax. We have evidence of your recent online activity. Pay a fine to this bitcoin address to avoid embarrassment.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Invoice #456 is attached. Please process payment by the due date (Oct 31st). Let me know if you have questions.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Hi everyone, the new employee onboarding session will be held virtually this Wednesday. The link is in the calendar invite.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "DON'T IGNORE THIS! Limited time to triple your bank account balance! Click the secret link now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just finished reading the book you recommended. It was fantastic! Thanks for the suggestion.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Account verification required: Your email password is too weak. Click here to change it immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm requesting two days of personal time off next month. I've submitted the request through the portal.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need help. I am a wealthy prince trapped in a foreign country and require a trustworthy person to hold $50 million for me.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The next volunteer sign-up list for the community clean-up event is now open. See the attached schedule.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This weekend only: FREE trial of our premium streaming service! Cancel anytime, no credit card required (for now).",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Regarding the quarterly budget, the final numbers were approved by finance. We can proceed with the hiring plan.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "EXCLUSIVE: You've been chosen for a high-paying, work-from-home job requiring zero experience. Apply within 24 hours!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We noticed suspicious login activity from a new device. If this was not you, please secure your account immediately via the link.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Confirmation: Your appointment with Dr. Smith is set for Tuesday, December 10th, at 2:00 PM.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LUCKY WINNER! You have won a complimentary cruise for two! Just cover taxes and port fees. Respond 'CRUISE' to claim.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Hey Sarah, I found that article on machine learning ethics we talked about. Sending it over now.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT ACTION NEEDED: Your PayPal account has been limited due to policy violations. Click here to restore service.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team bonding event is scheduled for next Friday. We're doing an escape room, followed by dinner.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET CASH NOW! No credit check required. Fast approval for loans up to $5,000. Apply online in 60 seconds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just got back from the conference. Learned a ton! Let's schedule a debrief next week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your computer is infected with a serious virus! Download our free cleanup software now before all your files are corrupted.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The quarterly financial results presentation slides are attached. Please review the 'Summary' section specifically.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Do you want to LOOK YOUNGER? Try our revolutionary anti-aging cream for 7 days FREE!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "REMINDER: The deadline for submitting travel expense reports is end of day today.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "My dearest friend, I write to you from a difficult situation. I desperately need $3,000 wired to me immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The bug report you filed yesterday (ID: 1478) has been prioritized and assigned to a developer.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are invited to join our exclusive network of millionaires. A one-time fee of $499 gives you access.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We've added a new feature to the platform based on your feedback. Check out the release notes here.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a mandatory system check. Please reply to this email with your username and password for confirmation.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I won't be in the office tomorrow due to a personal appointment. I will be checking emails intermittently.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CONGRATULATIONS! You have received a tax refund larger than expected. Click here to finalize the direct deposit.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The vendor agreement looks good. I made minor changes to section 4. Please sign and return the document by Friday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your iCloud storage is full. Buy more space now or lose your photos forever! Very simple link to purchase.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just a friendly heads-up: the building will undergo maintenance this weekend, so network access may be unstable.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE EARNINGS! Learn the secret trading technique that guarantees $10,000 profit daily.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Regarding the hiring pipeline, we have three strong candidates moving to the final interview stage next week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your order confirmation is attached. We appreciate your business and hope you enjoy your new software.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I can't believe this amazing secret! Lose 30 pounds in 30 days. No exercise, no diet, just one pill!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to update our contact list. Please click this link and verify your email and phone number.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Hello, I wanted to follow up on the proposal we sent last week. Have you had a chance to look it over?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your security key is expiring soon. Click here to generate a new one before you are locked out of your account.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company holiday party is December 15th at the Grand Ballroom. RSVP using the included form by December 1st.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Need help with debt? We can consolidate all your loans and save you thousands! Call us TODAY for a free consultation.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Thanks for the feedback on the design mockups. I'll incorporate your suggestions and send an updated version tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Congratulations! You have been gifted a $500 Amazon gift card! Enter your information now to redeem.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are postponing the product launch by one week to ensure final quality control. New date is November 18th.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your tax documents are available for download in the client portal. Log in using your existing credentials.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL CHANCE to buy discounted cryptocurrency before the price skyrockets! Limited availability!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We've added a new required training module on data privacy. Please complete it by the end of the month.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'm feeling much better, thank you for checking in. I plan to be back in the office on Wednesday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer's IP address is being tracked. Click this link to purchase protection software immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Do you know if John is planning to attend the stakeholder meeting on Thursday? I haven't heard back from him.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "The attached file is a critical security patch for your browser. You MUST install it now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Your password was successfully changed. If you did not make this change, contact support immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have an outstanding balance on your credit card. Pay it now to avoid a 30% penalty fee.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just finished my vacation and I'm catching up on emails. I'll get back to you on your request by tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE TRIAL EXTENDED! We love having you. Enjoy another 30 days of premium access, no strings attached.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET RICH TRADING STOCKS! Our AI bot generated 400% profit last month. Sign up now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to finalize the venue for the offsite. I'm leaning toward The Riverside Room. Thoughts?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been charged $1,299 for an iPhone 15 Pro Max. If this was a mistake, click here to cancel the order.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Please accept this invitation to connect on LinkedIn. I enjoyed our conversation yesterday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We are seeking investors for a high-risk, high-reward venture. Minimum investment $10,000 cash.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The latest version of the client brief is attached, incorporating all changes from our discussion.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your electricity bill payment failed. Click the link to update your payment information or service will be cut off.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team will be working remotely next Tuesday due to severe weather warnings. Please plan accordingly.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Don't miss out on this ONCE-IN-A-LIFETIME opportunity to buy gold at 50% below market price!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting agenda for tomorrow. Please come prepared to discuss points 3 and 4.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your bank account login details need verification. Enter your full credentials in the form below.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The user documentation for the new API endpoint is ready. Check the 'Docs' folder on the shared drive.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I accidentally sent the wrong file. Please disregard the previous email and use this attached PDF instead.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major settlement payout! Just sign this confidentiality agreement and send $500 for processing.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Can you please run the database migration script before the end of the day? It's necessary for the new release.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account security token has expired. Renew it instantly by clicking on this link.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The holiday schedule is attached, noting company holidays and reduced hours for the end of the year.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A CAR! Enter our drawing by clicking the link and entering your personal details. Limited time to enter!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We've received your application and will be reviewing it shortly. We aim to respond within 5-7 business days.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your phone carrier service has been suspended due to an unpaid balance. Restore service here.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Friendly reminder that all access cards need to be updated next week. Please visit the security desk.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time, secret offer for a mortgage refinance with an impossible low rate. Click now to apply!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I’m forwarding you the contact information for the vendor we discussed. She's great to work with.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT TAX AUDIT! Your business is under investigation. Click here to submit your tax records immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just wanted to say thanks again for helping me out with the presentation last week. It was a huge success!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Need more followers? Buy 10,000 real social media followers for only $5!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The cafeteria menu for next week is posted on the internal website. Looks like pizza on Thursday!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE VACATION to an exotic island! Just pay for your own flight and hotel. Limited spots available.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've reviewed the code pull request and left a few minor comments. Looks good overall.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your Netflix membership is on hold because of a payment issue. Please update your details to continue watching.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The corporate wide software update will roll out tonight at 2 AM PST. No action is required from end-users.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "SECRET FORMULA: Melt belly fat effortlessly with this one weird trick! Must see to believe.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm having trouble logging into the new system. Can you help reset my credentials?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your parcel delivery has failed. A small fee is required to redeliver. Click here to pay the charge.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to schedule the quarterly planning meeting. When are you and your team generally free next month?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY SLEEPING! Join our exclusive passive income webinar for FREE! Sign up now, limited seating.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just checking in on the status of the new server deployment. Is it still on track for today?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've won a $1,000 shopping spree! Click here to redeem your winnings and start shopping.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The attached spreadsheet contains the finalized budget allocations for all departments in Q1.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your social media account has been temporarily locked due to policy violations. Verify your identity here.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending the final invoice for the completed work. Payment is due within 30 days. Thank you.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is your last warning! Click this link to confirm your citizenship status or face deportation.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I accidentally deleted the shared presentation. Could you please resend the link?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "The office printer is low on toner. Could someone order more before we run out completely?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I am forwarding you a job application from a highly recommended candidate for the open analyst position.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Exclusive offer: Get a second mortgage with no down payment and no interest for five years! Limited time.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We've created a new channel on Slack for all communications related to the Lisbon project. Please join.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your identity has been stolen. Click this emergency link to protect your bank account and credit score.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The quarterly investor call is scheduled for next Thursday. Please find the dial-in details below.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL SALE! Everything must go! Clearance prices you won't believe. SHOP NOW!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've marked your travel request as approved. Please forward the flight details to administration.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account subscription will automatically renew next month. Contact us if you wish to cancel.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR PRIZE! Your email has been randomly selected to receive a brand new television.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running about 10 minutes late for our meeting due to traffic. My apologies.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We are looking for models for a photo shoot next month. No experience necessary. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The external review comments on the whitepaper are attached. Please address them before the final submission.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your system has been locked by the FBI due to illegal content. Pay a fine to unlock it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Could you please send me the password for the shared document? I seem to have misplaced it.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "ATTENTION: You've received a voicemail attachment. Download it now to listen.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are hosting a free webinar on optimizing cloud infrastructure next Wednesday. Register here.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'll be out of the office for the next two days for training. For urgent matters, please contact Jane Doe.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY FAST! Get paid $200 per hour working from home. Simple data entry tasks.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee directory is now live on the intranet. Please verify your information is correct.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your trial period for our software has ended. Click here to subscribe and continue using our services.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a SECRET government program to give away free money. Just click the link and enter your bank details.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I found a typo in the documentation on page 5. Could you correct it before we print?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT SAFETY ALERT: Your car insurance policy has lapsed. Renew immediately or drive illegally.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've accepted the calendar invite for the demo next Monday. Looking forward to seeing the new features!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have 10 unread messages in your dating app inbox! Log in now to see who likes you.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The supply order has been placed and should arrive by the end of the week. I'll let you know if there are any delays.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to discuss the new security implementation. Can you book a time with me next week?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Congratulations, you have qualified for a free gift! Click here to choose from our catalog of electronics.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending the finalized design specifications for your review and approval. All metrics were met.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your email service provider is performing maintenance. Reply with your password to keep your service active.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I’m forwarding you the meeting notes from the client call. Please pay attention to the requested changes.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LOSE WEIGHT! Our revolutionary pill helps you burn fat while you sleep. Free bottle if you sign up now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are having a team potluck lunch on Friday. Please sign up with what you plan to bring!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score has dropped significantly! Click here to see your report and fix the errors immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project charter document is ready for review. It outlines the scope and deliverables.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time offer for a discounted vacation package to Bali. Only $500 for 7 days!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need to get approval for this purchase order. Can you sign off on it by the end of the day?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING! Your computer system has been compromised. Download our security patch right away to fix it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company newsletter for this month is attached, featuring highlights from the R&D team.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We've added a mandatory two-factor authentication requirement for all employee accounts starting Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'm sending over the revised marketing plan based on the Q3 performance metrics.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major cash prize! Simply pay the $50 wire transfer fee to receive your winnings.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be working from home today due to a minor illness. I should be back in the office tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your bank requires immediate verification of your PIN and security question answers. Click here.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new expense reporting system is now live. All receipts must be submitted through the new portal.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "BUY NOW! The best deal on electronics you will ever see. Limited to the first 100 customers!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I just wanted to follow up on the status of the legal review. Are we still on track for Friday?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have been selected for a mysterious opportunity! Click the link to learn the secrets of eternal youth.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server downtime scheduled for Sunday has been moved to Monday evening. We apologize for the change.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your phone's memory is full. Click the link to download our memory cleaner app for free.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the feedback from the usability testing session. Lots of good points to consider.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to finalize the presentation deck. Can you add the appendix slides by EOD?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE MONEY! Click here to receive a no-strings-attached payment of $1,000 directly to your bank account.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The external contractor proposal is attached. I recommend we move forward with option C.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT: Your streaming service account has been suspended. Log in with your password to reactivate it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new HR policy document is now available on the shared drive. Please read section 3.2 carefully.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE SAVINGS on life insurance! Get a quote now and save up to 70% on your monthly premium.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've finished the initial data cleaning for the Q4 report. The raw data file is ready for analysis.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your student loan payment is past due. Click the link to make a payment and avoid late fees.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define clear KPIs for the next sprint. Let's schedule a session Monday morning.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A TRIP! Enter our sweepstakes for a chance to win a vacation to Paris, including airfare and hotel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the minutes from the last meeting. Please review them for accuracy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a confidential message from a lawyer in Nigeria. I need your help transferring $10 million.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The fire drill will take place tomorrow at 10 AM. Please follow all safety procedures.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your cloud subscription has expired. Renew immediately or your data will be permanently deleted.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Can you bring coffee and donuts for the morning meeting? I'll reimburse you later.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL OFFER! Invest in this secret stock before it goes public and makes you a billionaire.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee badges are ready for pickup at the front desk starting at 9 AM.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your bank is closing your account due to inactivity. Click this link to confirm your details and keep it open.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need help debugging an issue with the JavaScript code on the front end. Are you free to pair program?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET PAID $500 to review simple products from home! No experience needed, just sign up.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The results of the employee satisfaction survey are attached for your review.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a new friend request on a secret adult site. Click here to see who wants to connect!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just a heads-up that I'll be taking a late lunch today, around 1:30 PM.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your mobile phone bill is overdue. Click here to pay the outstanding balance immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The Q1 marketing campaign performance report is ready. I'll summarize the key findings in our next meeting.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE DEAL! Get a free consultation for plastic surgery! Limited slots available, book now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running the final QA checks on the new release. We should be ready to deploy tonight.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your package is currently stuck in customs. Pay the $5 fee to release it for delivery.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to update the website's privacy policy to comply with new regulations. Let's draft the changes.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I've attached the finalized hiring requirements for the senior developer position.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "DON'T WAIT! This amazing crypto offer will disappear in minutes. Invest your life savings now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company retirement plan enrollment period is open. Please review the attached booklet for details.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your online identity has been compromised. Change your password immediately or risk identity theft.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I just sent the project handover documents to the new team. Let me know if you see any gaps.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE GIVEAWAY! Win a luxury car, a house, and $1 million cash! Enter your details to claim.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new server configuration files are attached. Please deploy them by the end of the day.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are invited to a top-secret investment seminar. RSVP is required. Limited space!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the revised statement of work based on our discussion with the client.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT WARNING: Your computer has been hacked. We have full control. Pay the ransom in Bitcoin now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The mandatory annual sexual harassment training is now available online. Please complete it by the deadline.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card payment was declined. Please update your billing information immediately to avoid service interruption.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need a quick review of the draft memo before I send it to the CEO. Can you check for tone and clarity?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a critical security update pending on your Mac. Download it using the link provided.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team will be conducting a retrospective meeting on Friday to discuss lessons learned from the last sprint.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE! Lose 15 pounds in one week with this miracle diet pill. No exercise needed!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the final proposal presentation deck. I think it looks very professional.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your utility bill is overdue. Failure to pay within 24 hours will result in disconnection.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "Just letting you know I've booked my flights for the business trip next month.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY FROM HOME! Earn $5,000 a week stuffing envelopes! Click here for details.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the data visualization mockups for the new dashboard. Let me know your feedback.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your Amazon account has been locked due to multiple failed login attempts. Verify your details here.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee parking permits are available for collection at the security office.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL CALL: Invest in our offshore project before the opportunity vanishes forever. Guaranteed returns!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've updated the project roadmap based on the new timelines. The revised document is on the shared drive.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been selected to receive a free scholarship! Click here to claim your financial aid.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The department head is requesting a summary of all active projects by end of day Friday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your domain name registration is expiring soon. Click here to renew it immediately and avoid losing your site.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a vendor who specializes in enterprise cloud solutions. Do you have any recommendations?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to schedule a follow-up meeting with the client to discuss the next phase of the project.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank security system detected a major transfer. Click the link to block the transaction.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define clear boundaries and roles for the new initiative. Let's talk Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a mandatory system update. Please enter your full credentials below to proceed with the patch.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm planning the team holiday party. Do you have any suggestions for venues or catering?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WINNER! You've won a brand new electric car! Just pay the delivery fee of $999 to claim it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee handbook is attached. Please review the updated sick leave policy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your social security number requires immediate verification. Click the link to update your details now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone prepare a welcome kit and set up their workstation?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LAST CHANCE: Get this incredible weight loss supplement at 80% off! Limited stock remaining.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've completed the preliminary analysis of the user survey data. I'll summarize the results tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score is too low. Click here to instantly boost your score by 100 points!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to secure the budget for the new software licenses. Please send me the final quote.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is NOT A JOKE! You have inherited a large sum of money. Reply with your bank details to access the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the new marketing campaign assets for your review. Please confirm they meet brand guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your two-factor authentication has been disabled. Click here to re-enable it immediately for security.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server logs indicate a minor performance issue during peak hours. I'm investigating the root cause.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET PAID $1,000 DAILY! No experience, no effort, just click and earn. Limited opportunity!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need to confirm the catering order for the all-hands meeting. Should I go with Option A or B?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your tax refund is ready. Click the link to finalize the transfer of $5,000 to your bank.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final design files have been uploaded to the design repository. They are ready for implementation.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer has detected 10 viruses. Download our free software to clean your system now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly business review to the board next week. Wish me luck!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a new match on our dating service! Click here to view their profile and start chatting.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new policy on remote work is now effective. Please familiarize yourself with the guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT ACTION: Your email account has been suspended due to too many login attempts. Click to restore.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized contract terms for the new partnership. Everything looks good on our side.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE GIFT! This exclusive offer is only for you. Enter your details to receive your prize.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The marketing team has launched the new social media campaign. Please share the content on your channels.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your payment is severely overdue. Pay now or face legal action and credit default.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm working on the budget reconciliation for last quarter. Can you send me the final receipts?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been charged $49.99 for a recurring subscription. If you did not authorize this, click here to cancel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee review system will be introduced in the all-hands meeting next week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to know the status of the firewall configuration. Is the security patch deployed?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a security vulnerability! Download our VPN software to encrypt your data immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are postponing the company retreat until next quarter due to logistics issues. New dates TBD.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE INVESTMENT! Turn $10 into $1,000,000 in one week. Click this secret link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be out of the office for the remainder of the day. Contact my assistant for urgent matters.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your healthcare coverage is about to expire. Renew your policy now to avoid a gap in coverage.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project repository is ready. I've sent the access credentials in a separate secure message.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have an unpaid traffic ticket. Click here to pay the fine immediately or face arrest.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the training materials for the new software. Please review them before the session.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY NOW! This is the fastest way to get rich. Send us your name and phone number to start.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company social club is hosting a movie night this Friday. Snacks and drinks will be provided.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your identity has been confirmed as a winner of the grand lottery prize! Contact us to claim.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a new venue for the offsite meeting. Do you have any suggestions in the downtown area?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your computer will be permanently blocked if you do not download the security software now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication strategy for the upcoming merger announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been detected violating our terms of service. Click here to appeal the suspension.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly results to the executive team. Can you send me the final data slides?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE TRIAL of our exclusive stock trading bot! Get rich quick with zero risk. Click the link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of project dependencies. We need to prioritize these tasks immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your phone's camera has been hacked! We have compromising photos. Pay the ransom to delete them.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company barbecue is next Saturday. Please RSVP by the end of the week so we can finalize the catering.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the client meeting. Please review the talking points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT: Your password has been exposed in a data breach. Click here to create a new, secure password now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank account is about to be frozen due to suspicious activity. Verify your identity now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A FREE LAPTOP! Just complete a 5-minute survey to enter the drawing. Limited time offer!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final version of the user guide has been uploaded to the documentation server.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $100 for a purchase you did not make. Click here to dispute the charge.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the minutes from the last stakeholder meeting. Please review them for accuracy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time opportunity to invest in a revolutionary new technology. Minimum investment $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new company code of conduct is attached. Please read and acknowledge it by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have received an anonymous gift. Click here to reveal the sender and the prize!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit behind schedule. Can we push our meeting back by 30 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your car registration is about to expire. Renew it now to avoid hefty fines.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The training session on the new software will be held this Thursday. Attendance is mandatory for all team leads.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY SLEEPING! Join our exclusive passive income program and earn thousands effortlessly.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the finalized budget for Q3. It includes the changes we discussed yesterday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your computer is running slow. Download our optimization tool to speed it up instantly for free!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The maintenance window has been approved for next Saturday. We expect 4 hours of downtime.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major grant! Just pay the $100 processing fee to receive the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the revised client presentation deck. Please use this version for the meeting.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "ATTENTION! You have an urgent voicemail message. Click the attachment to listen now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new hire orientation will be held in conference room A. Please welcome the new employees.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "HUGE SALE! Get 75% off all electronics this weekend only! Don't miss out!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final report on market trends. It contains all the key data points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your parcel delivery address is incorrect. Click the link to update your details and pay a small fee.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security cameras are being installed next week. Access to the server room will be restricted temporarily.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need help with the SQL query optimization. Are you free for a quick chat later today?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a SECRET government offer! Click here to receive $1,000,000 in untraceable cash.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company holiday party is canceled due to unforeseen circumstances. We will reschedule soon.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been locked. Enter your username and password on this page to unlock it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've accepted the invitation for the project kick-off meeting next week. I'll bring the coffee.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CONGRATULATIONS! You have won a free iPhone 15! Just pay $1 for shipping and handling.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server migration is complete. Please test your applications and report any issues immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score requires immediate verification. Click the link and enter your SSN.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The external penetration test report is attached. We need to address the high-priority vulnerabilities.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL CHANCE to get this amazing stock at a low price. Buy now before it jumps 500%!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee benefits package is now available. Please review it before the open enrollment period.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a non-secured personal loan with a 0% interest rate for life. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've sent the final contract to the client. We should hear back from them by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer will be remotely wiped if you do not download this security patch immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new version of the software is ready for beta testing. The link and instructions are attached.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to discuss the new project timelines. Can we schedule a quick call tomorrow morning?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET RICH QUICK! Join our exclusive investment club and turn $100 into $1 million in 30 days!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone please show them the ropes on their first day?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your PayPal account has been limited due to unusual activity. Click here to verify your identity.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the finalized marketing budget for Q4. It includes the TV ad spend we discussed.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your credit card debt is about to be sold to a collection agency. Pay now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new training materials for the customer service team are ready. Please review and provide feedback.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have won a free $1,000 gift card! Click here to redeem your winnings and start shopping now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication plan for the upcoming product announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your email account password is too weak. Click here to change it to a stronger one immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE SALE! Get 90% off all clothing this weekend only. Shop now and save big!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security update is scheduled for deployment tonight. Please save all your work before you leave.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your Amazon account has been suspended due to policy violations. Click here to restore service.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final version of the press release. It's ready for distribution.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE MONEY! This is a government grant only for you. Enter your SSN to receive $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project management tool is now live. All project tracking should be moved to the new system.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer's IP address has been flagged for illegal activity. Pay the fine now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the board meeting. Please review the appendix slides.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major settlement payout! Just sign this document and send $100 for processing.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your student loan debt will be sold to a collection agency if you don't pay now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit late for our meeting. Can we push it back by 15 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $500 for a purchase you did not authorize. Click here to dispute.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee orientation will be held in conference room B. Please welcome the new hires.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time, secret offer for a mortgage refinance with an impossibly low rate. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A TRIP! Enter our sweepstakes for a chance to win a vacation to Paris, including airfare and hotel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been selected to receive a free scholarship! Click here to claim your financial aid.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The department head is requesting a summary of all active projects by end of day Friday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your domain name registration is expiring soon. Click here to renew it immediately and avoid losing your site.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a vendor who specializes in enterprise cloud solutions. Do you have any recommendations?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to schedule a follow-up meeting with the client to discuss the next phase of the project.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank security system detected a major transfer. Click the link to block the transaction.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define clear boundaries and roles for the new initiative. Let's talk Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a mandatory system update. Please enter your full credentials below to proceed with the patch.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm planning the team holiday party. Do you have any suggestions for venues or catering?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WINNER! You've won a brand new electric car! Just pay the delivery fee of $999 to claim it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee handbook is attached. Please review the updated sick leave policy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your social security number requires immediate verification. Click the link to update your details now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone prepare a welcome kit and set up their workstation?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LAST CHANCE: Get this incredible weight loss supplement at 80% off! Limited stock remaining.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've completed the preliminary analysis of the user survey data. I'll summarize the results tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score is too low. Click here to instantly boost your score by 100 points!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to secure the budget for the new software licenses. Please send me the final quote.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is NOT A JOKE! You have inherited a large sum of money. Reply with your bank details to access the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the new marketing campaign assets for your review. Please confirm they meet brand guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your two-factor authentication has been disabled. Click here to re-enable it immediately for security.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server logs indicate a minor performance issue during peak hours. I'm investigating the root cause.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET PAID $1,000 DAILY! No experience, no effort, just click and earn. Limited opportunity!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need to confirm the catering order for the all-hands meeting. Should I go with Option A or B?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your tax refund is ready. Click the link to finalize the transfer of $5,000 to your bank.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final design files have been uploaded to the design repository. They are ready for implementation.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer has detected 10 viruses. Download our free software to clean your system now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly business review to the board next week. Wish me luck!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a new match on our dating service! Click here to view their profile and start chatting.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new policy on remote work is now effective. Please familiarize yourself with the guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT ACTION: Your email account has been suspended due to too many login attempts. Click to restore.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized contract terms for the new partnership. Everything looks good on our side.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE GIFT! This exclusive offer is only for you. Enter your details to receive your prize.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The marketing team has launched the new social media campaign. Please share the content on your channels.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your payment is severely overdue. Pay now or face legal action and credit default.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm working on the budget reconciliation for last quarter. Can you send me the final receipts?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been charged $49.99 for a recurring subscription. If you did not authorize this, click here to cancel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee review system will be introduced in the all-hands meeting next week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to know the status of the firewall configuration. Is the security patch deployed?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a security vulnerability! Download our VPN software to encrypt your data immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are postponing the company retreat until next quarter due to logistics issues. New dates TBD.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE INVESTMENT! Turn $10 into $1,000,000 in one week. Click this secret link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be out of the office for the remainder of the day. Contact my assistant for urgent matters.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your healthcare coverage is about to expire. Renew your policy now to avoid a gap in coverage.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project repository is ready. I've sent the access credentials in a separate secure message.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have an unpaid traffic ticket. Click here to pay the fine immediately or face arrest.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the training materials for the new software. Please review them before the session.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY NOW! This is the fastest way to get rich. Send us your name and phone number to start.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company social club is hosting a movie night this Friday. Snacks and drinks will be provided.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your identity has been confirmed as a winner of the grand lottery prize! Contact us to claim.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a new venue for the offsite meeting. Do you have any suggestions in the downtown area?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your computer will be permanently blocked if you do not download the security software now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication strategy for the upcoming merger announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been detected violating our terms of service. Click here to appeal the suspension.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly results to the executive team. Can you send me the final data slides?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE TRIAL of our exclusive stock trading bot! Get rich quick with zero risk. Click the link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of project dependencies. We need to prioritize these tasks immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your phone's camera has been hacked! We have compromising photos. Pay the ransom to delete them.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company barbecue is next Saturday. Please RSVP by the end of the week so we can finalize the catering.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the client meeting. Please review the talking points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT: Your password has been exposed in a data breach. Click here to create a new, secure password now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank account is about to be frozen due to suspicious activity. Verify your identity now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A FREE LAPTOP! Just complete a 5-minute survey to enter the drawing. Limited time offer!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final version of the user guide has been uploaded to the documentation server.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $100 for a purchase you did not make. Click here to dispute the charge.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the minutes from the last stakeholder meeting. Please review them for accuracy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time opportunity to invest in a revolutionary new technology. Minimum investment $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new company code of conduct is attached. Please read and acknowledge it by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have received an anonymous gift. Click here to reveal the sender and the prize!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit behind schedule. Can we push our meeting back by 30 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your car registration is about to expire. Renew it now to avoid hefty fines.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The training session on the new software will be held this Thursday. Attendance is mandatory for all team leads.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY SLEEPING! Join our exclusive passive income program and earn thousands effortlessly.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the finalized budget for Q3. It includes the changes we discussed yesterday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your computer is running slow. Download our optimization tool to speed it up instantly for free!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The maintenance window has been approved for next Saturday. We expect 4 hours of downtime.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major grant! Just pay the $100 processing fee to receive the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the revised client presentation deck. Please use this version for the meeting.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "ATTENTION! You have an urgent voicemail message. Click the attachment to listen now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new hire orientation will be held in conference room A. Please welcome the new employees.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "HUGE SALE! Get 75% off all electronics this weekend only! Don't miss out!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final report on market trends. It contains all the key data points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your parcel delivery address is incorrect. Click the link to update your details and pay a small fee.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security cameras are being installed next week. Access to the server room will be restricted temporarily.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need help with the SQL query optimization. Are you free for a quick chat later today?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a SECRET government offer! Click here to receive $1,000,000 in untraceable cash.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company holiday party is canceled due to unforeseen circumstances. We will reschedule soon.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been locked. Enter your username and password on this page to unlock it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've accepted the invitation for the project kick-off meeting next week. I'll bring the coffee.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CONGRATULATIONS! You have won a free iPhone 15! Just pay $1 for shipping and handling.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server migration is complete. Please test your applications and report any issues immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score requires immediate verification. Click the link and enter your SSN.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The external penetration test report is attached. We need to address the high-priority vulnerabilities.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL CHANCE to get this amazing stock at a low price. Buy now before it jumps 500%!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee benefits package is now available. Please review it before the open enrollment period.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a non-secured personal loan with a 0% interest rate for life. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've sent the final contract to the client. We should hear back from them by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer will be remotely wiped if you do not download this security patch immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new version of the software is ready for beta testing. The link and instructions are attached.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to discuss the new project timelines. Can we schedule a quick call tomorrow morning?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET RICH QUICK! Join our exclusive investment club and turn $100 into $1 million in 30 days!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone please show them the ropes on their first day?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your PayPal account has been limited due to unusual activity. Click here to verify your identity.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the finalized marketing budget for Q4. It includes the TV ad spend we discussed.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your credit card debt is about to be sold to a collection agency. Pay now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new training materials for the customer service team are ready. Please review and provide feedback.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have won a free $1,000 gift card! Click here to redeem your winnings and start shopping now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication plan for the upcoming product announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your email account password is too weak. Click here to change it to a stronger one immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE SALE! Get 90% off all clothing this weekend only. Shop now and save big!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security update is scheduled for deployment tonight. Please save all your work before you leave.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your Amazon account has been suspended due to policy violations. Click here to restore service.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final version of the press release. It's ready for distribution.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE MONEY! This is a government grant only for you. Enter your SSN to receive $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project management tool is now live. All project tracking should be moved to the new system.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer's IP address has been flagged for illegal activity. Pay the fine now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the board meeting. Please review the appendix slides.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major settlement payout! Just sign this document and send $100 for processing.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your student loan debt will be sold to a collection agency if you don't pay now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit late for our meeting. Can we push it back by 15 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $500 for a purchase you did not authorize. Click here to dispute.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee orientation will be held in conference room B. Please welcome the new hires.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time, secret offer for a mortgage refinance with an impossibly low rate. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A TRIP! Enter our sweepstakes for a chance to win a vacation to Paris, including airfare and hotel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been selected to receive a free scholarship! Click here to claim your financial aid.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The department head is requesting a summary of all active projects by end of day Friday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your domain name registration is expiring soon. Click here to renew it immediately and avoid losing your site.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a vendor who specializes in enterprise cloud solutions. Do you have any recommendations?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to schedule a follow-up meeting with the client to discuss the next phase of the project.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank security system detected a major transfer. Click the link to block the transaction.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define clear boundaries and roles for the new initiative. Let's talk Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a mandatory system update. Please enter your full credentials below to proceed with the patch.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm planning the team holiday party. Do you have any suggestions for venues or catering?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WINNER! You've won a brand new electric car! Just pay the delivery fee of $999 to claim it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee handbook is attached. Please review the updated sick leave policy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your social security number requires immediate verification. Click the link to update your details now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone prepare a welcome kit and set up their workstation?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LAST CHANCE: Get this incredible weight loss supplement at 80% off! Limited stock remaining.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've completed the preliminary analysis of the user survey data. I'll summarize the results tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score is too low. Click here to instantly boost your score by 100 points!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to secure the budget for the new software licenses. Please send me the final quote.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is NOT A JOKE! You have inherited a large sum of money. Reply with your bank details to access the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the new marketing campaign assets for your review. Please confirm they meet brand guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your two-factor authentication has been disabled. Click here to re-enable it immediately for security.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server logs indicate a minor performance issue during peak hours. I'm investigating the root cause.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET PAID $1,000 DAILY! No experience, no effort, just click and earn. Limited opportunity!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need to confirm the catering order for the all-hands meeting. Should I go with Option A or B?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your tax refund is ready. Click the link to finalize the transfer of $5,000 to your bank.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final design files have been uploaded to the design repository. They are ready for implementation.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer has detected 10 viruses. Download our free software to clean your system now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly business review to the board next week. Wish me luck!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a new match on our dating service! Click here to view their profile and start chatting.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new policy on remote work is now effective. Please familiarize yourself with the guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT ACTION: Your email account has been suspended due to too many login attempts. Click to restore.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized contract terms for the new partnership. Everything looks good on our side.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE GIFT! This exclusive offer is only for you. Enter your details to receive your prize.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The marketing team has launched the new social media campaign. Please share the content on your channels.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your payment is severely overdue. Pay now or face legal action and credit default.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm working on the budget reconciliation for last quarter. Can you send me the final receipts?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been charged $49.99 for a recurring subscription. If you did not authorize this, click here to cancel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee review system will be introduced in the all-hands meeting next week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to know the status of the firewall configuration. Is the security patch deployed?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a security vulnerability! Download our VPN software to encrypt your data immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are postponing the company retreat until next quarter due to logistics issues. New dates TBD.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE INVESTMENT! Turn $10 into $1,000,000 in one week. Click this secret link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be out of the office for the remainder of the day. Contact my assistant for urgent matters.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your healthcare coverage is about to expire. Renew your policy now to avoid a gap in coverage.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project repository is ready. I've sent the access credentials in a separate secure message.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have an unpaid traffic ticket. Click here to pay the fine immediately or face arrest.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the training materials for the new software. Please review them before the session.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY NOW! This is the fastest way to get rich. Send us your name and phone number to start.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company social club is hosting a movie night this Friday. Snacks and drinks will be provided.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your identity has been confirmed as a winner of the grand lottery prize! Contact us to claim.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a new venue for the offsite meeting. Do you have any suggestions in the downtown area?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your computer will be permanently blocked if you do not download the security software now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication strategy for the upcoming merger announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been detected violating our terms of service. Click here to appeal the suspension.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly results to the executive team. Can you send me the final data slides?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE TRIAL of our exclusive stock trading bot! Get rich quick with zero risk. Click the link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of project dependencies. We need to prioritize these tasks immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your phone's camera has been hacked! We have compromising photos. Pay the ransom to delete them.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company barbecue is next Saturday. Please RSVP by the end of the week so we can finalize the catering.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the client meeting. Please review the talking points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT: Your password has been exposed in a data breach. Click here to create a new, secure password now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank account is about to be frozen due to suspicious activity. Verify your identity now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A FREE LAPTOP! Just complete a 5-minute survey to enter the drawing. Limited time offer!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final version of the user guide has been uploaded to the documentation server.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $100 for a purchase you did not authorize. Click here to dispute the charge.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the minutes from the last stakeholder meeting. Please review them for accuracy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time opportunity to invest in a revolutionary new technology. Minimum investment $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new company code of conduct is attached. Please read and acknowledge it by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have received an anonymous gift. Click here to reveal the sender and the prize!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit behind schedule. Can we push our meeting back by 30 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your car registration is about to expire. Renew it now to avoid hefty fines.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The training session on the new software will be held this Thursday. Attendance is mandatory for all team leads.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY SLEEPING! Join our exclusive passive income program and earn thousands effortlessly.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the finalized budget for Q3. It includes the changes we discussed yesterday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your computer is running slow. Download our optimization tool to speed it up instantly for free!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The maintenance window has been approved for next Saturday. We expect 4 hours of downtime.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major grant! Just pay the $100 processing fee to receive the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the revised client presentation deck. Please use this version for the meeting.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "ATTENTION! You have an urgent voicemail message. Click the attachment to listen now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new hire orientation will be held in conference room A. Please welcome the new employees.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "HUGE SALE! Get 75% off all electronics this weekend only! Don't miss out!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final report on market trends. It contains all the key data points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your parcel delivery address is incorrect. Click the link to update your details and pay a small fee.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security cameras are being installed next week. Access to the server room will be restricted temporarily.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need help with the SQL query optimization. Are you free for a quick chat later today?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a SECRET government offer! Click here to receive $1,000,000 in untraceable cash.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company holiday party is canceled due to unforeseen circumstances. We will reschedule soon.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been locked. Enter your username and password on this page to unlock it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've accepted the invitation for the project kick-off meeting next week. I'll bring the coffee.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CONGRATULATIONS! You have won a free iPhone 15! Just pay $1 for shipping and handling.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server migration is complete. Please test your applications and report any issues immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score requires immediate verification. Click the link and enter your SSN.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The external penetration test report is attached. We need to address the high-priority vulnerabilities.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL CHANCE to get this amazing stock at a low price. Buy now before it jumps 500%!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee benefits package is now available. Please review it before the open enrollment period.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a non-secured personal loan with a 0% interest rate for life. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've sent the final contract to the client. We should hear back from them by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer will be remotely wiped if you do not download this security patch immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new version of the software is ready for beta testing. The link and instructions are attached.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to discuss the new project timelines. Can we schedule a quick call tomorrow morning?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET RICH QUICK! Join our exclusive investment club and turn $100 into $1 million in 30 days!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone please show them the ropes on their first day?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your PayPal account has been limited due to unusual activity. Click here to verify your identity.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the finalized marketing budget for Q4. It includes the TV ad spend we discussed.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your credit card debt is about to be sold to a collection agency. Pay now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new training materials for the customer service team are ready. Please review and provide feedback.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have won a free $1,000 gift card! Click here to redeem your winnings and start shopping now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication plan for the upcoming product announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your email account password is too weak. Click here to change it to a stronger one immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE SALE! Get 90% off all clothing this weekend only. Shop now and save big!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security update is scheduled for deployment tonight. Please save all your work before you leave.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your Amazon account has been suspended due to policy violations. Click here to restore service.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final version of the press release. It's ready for distribution.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE MONEY! This is a government grant only for you. Enter your SSN to receive $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project management tool is now live. All project tracking should be moved to the new system.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer's IP address has been flagged for illegal activity. Pay the fine now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the board meeting. Please review the appendix slides.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major settlement payout! Just sign this document and send $100 for processing.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your student loan debt will be sold to a collection agency if you don't pay now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit late for our meeting. Can we push it back by 15 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $500 for a purchase you did not authorize. Click here to dispute.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee orientation will be held in conference room B. Please welcome the new hires.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time, secret offer for a mortgage refinance with an impossibly low rate. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A TRIP! Enter our sweepstakes for a chance to win a vacation to Paris, including airfare and hotel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been selected to receive a free scholarship! Click here to claim your financial aid.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The department head is requesting a summary of all active projects by end of day Friday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your domain name registration is expiring soon. Click here to renew it immediately and avoid losing your site.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a vendor who specializes in enterprise cloud solutions. Do you have any recommendations?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to schedule a follow-up meeting with the client to discuss the next phase of the project.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank security system detected a major transfer. Click the link to block the transaction.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define clear boundaries and roles for the new initiative. Let's talk Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a mandatory system update. Please enter your full credentials below to proceed with the patch.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm planning the team holiday party. Do you have any suggestions for venues or catering?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WINNER! You've won a brand new electric car! Just pay the delivery fee of $999 to claim it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee handbook is attached. Please review the updated sick leave policy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your social security number requires immediate verification. Click the link to update your details now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone prepare a welcome kit and set up their workstation?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LAST CHANCE: Get this incredible weight loss supplement at 80% off! Limited stock remaining.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've completed the preliminary analysis of the user survey data. I'll summarize the results tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score is too low. Click here to instantly boost your score by 100 points!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to secure the budget for the new software licenses. Please send me the final quote.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is NOT A JOKE! You have inherited a large sum of money. Reply with your bank details to access the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the new marketing campaign assets for your review. Please confirm they meet brand guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your two-factor authentication has been disabled. Click here to re-enable it immediately for security.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server logs indicate a minor performance issue during peak hours. I'm investigating the root cause.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET PAID $1,000 DAILY! No experience, no effort, just click and earn. Limited opportunity!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need to confirm the catering order for the all-hands meeting. Should I go with Option A or B?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your tax refund is ready. Click the link to finalize the transfer of $5,000 to your bank.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final design files have been uploaded to the design repository. They are ready for implementation.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer has detected 10 viruses. Download our free software to clean your system now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly business review to the board next week. Wish me luck!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a new match on our dating service! Click here to view their profile and start chatting.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new policy on remote work is now effective. Please familiarize yourself with the guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT ACTION: Your email account has been suspended due to too many login attempts. Click to restore.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized contract terms for the new partnership. Everything looks good on our side.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE GIFT! This exclusive offer is only for you. Enter your details to receive your prize.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The marketing team has launched the new social media campaign. Please share the content on your channels.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your payment is severely overdue. Pay now or face legal action and credit default.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm working on the budget reconciliation for last quarter. Can you send me the final receipts?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been charged $49.99 for a recurring subscription. If you did not authorize this, click here to cancel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee review system will be introduced in the all-hands meeting next week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to know the status of the firewall configuration. Is the security patch deployed?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a security vulnerability! Download our VPN software to encrypt your data immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are postponing the company retreat until next quarter due to logistics issues. New dates TBD.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE INVESTMENT! Turn $10 into $1,000,000 in one week. Click this secret link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be out of the office for the remainder of the day. Contact my assistant for urgent matters.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your healthcare coverage is about to expire. Renew your policy now to avoid a gap in coverage.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project repository is ready. I've sent the access credentials in a separate secure message.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have an unpaid traffic ticket. Click here to pay the fine immediately or face arrest.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the training materials for the new software. Please review them before the session.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY NOW! This is the fastest way to get rich. Send us your name and phone number to start.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company social club is hosting a movie night this Friday. Snacks and drinks will be provided.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your identity has been confirmed as a winner of the grand lottery prize! Contact us to claim.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a new venue for the offsite meeting. Do you have any suggestions in the downtown area?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your computer will be permanently blocked if you do not download the security software now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication strategy for the upcoming merger announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been detected violating our terms of service. Click here to appeal the suspension.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly results to the executive team. Can you send me the final data slides?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE TRIAL of our exclusive stock trading bot! Get rich quick with zero risk. Click the link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of project dependencies. We need to prioritize these tasks immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your phone's camera has been hacked! We have compromising photos. Pay the ransom to delete them.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company barbecue is next Saturday. Please RSVP by the end of the week so we can finalize the catering.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the client meeting. Please review the talking points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT: Your password has been exposed in a data breach. Click here to create a new, secure password now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank account is about to be frozen due to suspicious activity. Verify your identity now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A FREE LAPTOP! Just complete a 5-minute survey to enter the drawing. Limited time offer!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final version of the user guide has been uploaded to the documentation server.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $100 for a purchase you did not authorize. Click here to dispute the charge.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the minutes from the last stakeholder meeting. Please review them for accuracy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time opportunity to invest in a revolutionary new technology. Minimum investment $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new company code of conduct is attached. Please read and acknowledge it by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have received an anonymous gift. Click here to reveal the sender and the prize!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit behind schedule. Can we push our meeting back by 30 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your car registration is about to expire. Renew it now to avoid hefty fines.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The training session on the new software will be held this Thursday. Attendance is mandatory for all team leads.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY SLEEPING! Join our exclusive passive income program and earn thousands effortlessly.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the finalized budget for Q3. It includes the changes we discussed yesterday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your computer is running slow. Download our optimization tool to speed it up instantly for free!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The maintenance window has been approved for next Saturday. We expect 4 hours of downtime.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major grant! Just pay the $100 processing fee to receive the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the revised client presentation deck. Please use this version for the meeting.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "ATTENTION! You have an urgent voicemail message. Click the attachment to listen now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new hire orientation will be held in conference room A. Please welcome the new employees.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "HUGE SALE! Get 75% off all electronics this weekend only! Don't miss out!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final report on market trends. It contains all the key data points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your parcel delivery address is incorrect. Click the link to update your details and pay a small fee.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security cameras are being installed next week. Access to the server room will be restricted temporarily.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need help with the SQL query optimization. Are you free for a quick chat later today?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a SECRET government offer! Click here to receive $1,000,000 in untraceable cash.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company holiday party is canceled due to unforeseen circumstances. We will reschedule soon.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been locked. Enter your username and password on this page to unlock it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've accepted the invitation for the project kick-off meeting next week. I'll bring the coffee.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CONGRATULATIONS! You have won a free iPhone 15! Just pay $1 for shipping and handling.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server migration is complete. Please test your applications and report any issues immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score requires immediate verification. Click the link and enter your SSN.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The external penetration test report is attached. We need to address the high-priority vulnerabilities.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL CHANCE to get this amazing stock at a low price. Buy now before it jumps 500%!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee benefits package is now available. Please review it before the open enrollment period.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a non-secured personal loan with a 0% interest rate for life. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've sent the final contract to the client. We should hear back from them by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer will be remotely wiped if you do not download this security patch immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new version of the software is ready for beta testing. The link and instructions are attached.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to discuss the new project timelines. Can we schedule a quick call tomorrow morning?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET RICH QUICK! Join our exclusive investment club and turn $100 into $1 million in 30 days!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone please show them the ropes on their first day?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your PayPal account has been limited due to unusual activity. Click here to verify your identity.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the finalized marketing budget for Q4. It includes the TV ad spend we discussed.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your credit card debt is about to be sold to a collection agency. Pay now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new training materials for the customer service team are ready. Please review and provide feedback.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have won a free $1,000 gift card! Click here to redeem your winnings and start shopping now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication plan for the upcoming product announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your email account password is too weak. Click here to change it to a stronger one immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE SALE! Get 90% off all clothing this weekend only. Shop now and save big!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security update is scheduled for deployment tonight. Please save all your work before you leave.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your Amazon account has been suspended due to policy violations. Click here to restore service.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final version of the press release. It's ready for distribution.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE MONEY! This is a government grant only for you. Enter your SSN to receive $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project management tool is now live. All project tracking should be moved to the new system.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer's IP address has been flagged for illegal activity. Pay the fine now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the board meeting. Please review the appendix slides.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major settlement payout! Just sign this document and send $100 for processing.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your student loan debt will be sold to a collection agency if you don't pay now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit late for our meeting. Can we push it back by 15 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $500 for a purchase you did not authorize. Click here to dispute.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee orientation will be held in conference room B. Please welcome the new hires.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time, secret offer for a mortgage refinance with an impossibly low rate. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A TRIP! Enter our sweepstakes for a chance to win a vacation to Paris, including airfare and hotel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been selected to receive a free scholarship! Click here to claim your financial aid.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The department head is requesting a summary of all active projects by end of day Friday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your domain name registration is expiring soon. Click here to renew it immediately and avoid losing your site.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a vendor who specializes in enterprise cloud solutions. Do you have any recommendations?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to schedule a follow-up meeting with the client to discuss the next phase of the project.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank security system detected a major transfer. Click the link to block the transaction.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define clear boundaries and roles for the new initiative. Let's talk Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a mandatory system update. Please enter your full credentials below to proceed with the patch.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm planning the team holiday party. Do you have any suggestions for venues or catering?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WINNER! You've won a brand new electric car! Just pay the delivery fee of $999 to claim it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee handbook is attached. Please review the updated sick leave policy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your social security number requires immediate verification. Click the link to update your details now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone prepare a welcome kit and set up their workstation?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LAST CHANCE: Get this incredible weight loss supplement at 80% off! Limited stock remaining.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've completed the preliminary analysis of the user survey data. I'll summarize the results tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score is too low. Click here to instantly boost your score by 100 points!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to secure the budget for the new software licenses. Please send me the final quote.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is NOT A JOKE! You have inherited a large sum of money. Reply with your bank details to access the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the new marketing campaign assets for your review. Please confirm they meet brand guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your two-factor authentication has been disabled. Click here to re-enable it immediately for security.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server logs indicate a minor performance issue during peak hours. I'm investigating the root cause.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET PAID $1,000 DAILY! No experience, no effort, just click and earn. Limited opportunity!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need to confirm the catering order for the all-hands meeting. Should I go with Option A or B?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your tax refund is ready. Click the link to finalize the transfer of $5,000 to your bank.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final design files have been uploaded to the design repository. They are ready for implementation.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer has detected 10 viruses. Download our free software to clean your system now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly business review to the board next week. Wish me luck!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a new match on our dating service! Click here to view their profile and start chatting.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new policy on remote work is now effective. Please familiarize yourself with the guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT ACTION: Your email account has been suspended due to too many login attempts. Click to restore.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized contract terms for the new partnership. Everything looks good on our side.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE GIFT! This exclusive offer is only for you. Enter your details to receive your prize.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The marketing team has launched the new social media campaign. Please share the content on your channels.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your payment is severely overdue. Pay now or face legal action and credit default.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm working on the budget reconciliation for last quarter. Can you send me the final receipts?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been charged $49.99 for a recurring subscription. If you did not authorize this, click here to cancel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee review system will be introduced in the all-hands meeting next week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to know the status of the firewall configuration. Is the security patch deployed?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a security vulnerability! Download our VPN software to encrypt your data immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are postponing the company retreat until next quarter due to logistics issues. New dates TBD.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE INVESTMENT! Turn $10 into $1,000,000 in one week. Click this secret link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be out of the office for the remainder of the day. Contact my assistant for urgent matters.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your healthcare coverage is about to expire. Renew your policy now to avoid a gap in coverage.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project repository is ready. I've sent the access credentials in a separate secure message.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have an unpaid traffic ticket. Click here to pay the fine immediately or face arrest.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the training materials for the new software. Please review them before the session.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY NOW! This is the fastest way to get rich. Send us your name and phone number to start.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company social club is hosting a movie night this Friday. Snacks and drinks will be provided.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your identity has been confirmed as a winner of the grand lottery prize! Contact us to claim.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a new venue for the offsite meeting. Do you have any suggestions in the downtown area?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your computer will be permanently blocked if you do not download the security software now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication strategy for the upcoming merger announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been detected violating our terms of service. Click here to appeal the suspension.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly results to the executive team. Can you send me the final data slides?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE TRIAL of our exclusive stock trading bot! Get rich quick with zero risk. Click the link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of project dependencies. We need to prioritize these tasks immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your phone's camera has been hacked! We have compromising photos. Pay the ransom to delete them.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company barbecue is next Saturday. Please RSVP by the end of the week so we can finalize the catering.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the client meeting. Please review the talking points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT: Your password has been exposed in a data breach. Click here to create a new, secure password now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank account is about to be frozen due to suspicious activity. Verify your identity now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A FREE LAPTOP! Just complete a 5-minute survey to enter the drawing. Limited time offer!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final version of the user guide has been uploaded to the documentation server.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $100 for a purchase you did not authorize. Click here to dispute the charge.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the minutes from the last stakeholder meeting. Please review them for accuracy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time opportunity to invest in a revolutionary new technology. Minimum investment $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new company code of conduct is attached. Please read and acknowledge it by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have received an anonymous gift. Click here to reveal the sender and the prize!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit behind schedule. Can we push our meeting back by 30 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your car registration is about to expire. Renew it now to avoid hefty fines.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The training session on the new software will be held this Thursday. Attendance is mandatory for all team leads.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY SLEEPING! Join our exclusive passive income program and earn thousands effortlessly.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the finalized budget for Q3. It includes the changes we discussed yesterday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your computer is running slow. Download our optimization tool to speed it up instantly for free!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The maintenance window has been approved for next Saturday. We expect 4 hours of downtime.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major grant! Just pay the $100 processing fee to receive the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the revised client presentation deck. Please use this version for the meeting.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "ATTENTION! You have an urgent voicemail message. Click the attachment to listen now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new hire orientation will be held in conference room A. Please welcome the new employees.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "HUGE SALE! Get 75% off all electronics this weekend only! Don't miss out!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final report on market trends. It contains all the key data points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your parcel delivery address is incorrect. Click the link to update your details and pay a small fee.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security cameras are being installed next week. Access to the server room will be restricted temporarily.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need help with the SQL query optimization. Are you free for a quick chat later today?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a SECRET government offer! Click here to receive $1,000,000 in untraceable cash.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company holiday party is canceled due to unforeseen circumstances. We will reschedule soon.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been locked. Enter your username and password on this page to unlock it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've accepted the invitation for the project kick-off meeting next week. I'll bring the coffee.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CONGRATULATIONS! You have won a free iPhone 15! Just pay $1 for shipping and handling.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server migration is complete. Please test your applications and report any issues immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score requires immediate verification. Click the link and enter your SSN.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The external penetration test report is attached. We need to address the high-priority vulnerabilities.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL CHANCE to get this amazing stock at a low price. Buy now before it jumps 500%!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee benefits package is now available. Please review it before the open enrollment period.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a non-secured personal loan with a 0% interest rate for life. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've sent the final contract to the client. We should hear back from them by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer will be remotely wiped if you do not download this security patch immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new version of the software is ready for beta testing. The link and instructions are attached.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to discuss the new project timelines. Can we schedule a quick call tomorrow morning?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET RICH QUICK! Join our exclusive investment club and turn $100 into $1 million in 30 days!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone please show them the ropes on their first day?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your PayPal account has been limited due to unusual activity. Click here to verify your identity.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the finalized marketing budget for Q4. It includes the TV ad spend we discussed.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your credit card debt is about to be sold to a collection agency. Pay now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new training materials for the customer service team are ready. Please review and provide feedback.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have won a free $1,000 gift card! Click here to redeem your winnings and start shopping now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication plan for the upcoming product announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your email account password is too weak. Click here to change it to a stronger one immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE SALE! Get 90% off all clothing this weekend only. Shop now and save big!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security update is scheduled for deployment tonight. Please save all your work before you leave.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your Amazon account has been suspended due to policy violations. Click here to restore service.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final version of the press release. It's ready for distribution.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE MONEY! This is a government grant only for you. Enter your SSN to receive $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project management tool is now live. All project tracking should be moved to the new system.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer's IP address has been flagged for illegal activity. Pay the fine now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the board meeting. Please review the appendix slides.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major settlement payout! Just sign this document and send $100 for processing.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your student loan debt will be sold to a collection agency if you don't pay now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit late for our meeting. Can we push it back by 15 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $500 for a purchase you did not authorize. Click here to dispute.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee orientation will be held in conference room B. Please welcome the new hires.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time, secret offer for a mortgage refinance with an impossibly low rate. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A TRIP! Enter our sweepstakes for a chance to win a vacation to Paris, including airfare and hotel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been selected to receive a free scholarship! Click here to claim your financial aid.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The department head is requesting a summary of all active projects by end of day Friday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your domain name registration is expiring soon. Click here to renew it immediately and avoid losing your site.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a vendor who specializes in enterprise cloud solutions. Do you have any recommendations?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to schedule a follow-up meeting with the client to discuss the next phase of the project.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank security system detected a major transfer. Click the link to block the transaction.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define clear boundaries and roles for the new initiative. Let's talk Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a mandatory system update. Please enter your full credentials below to proceed with the patch.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm planning the team holiday party. Do you have any suggestions for venues or catering?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WINNER! You've won a brand new electric car! Just pay the delivery fee of $999 to claim it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee handbook is attached. Please review the updated sick leave policy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your social security number requires immediate verification. Click the link to update your details now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone prepare a welcome kit and set up their workstation?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LAST CHANCE: Get this incredible weight loss supplement at 80% off! Limited stock remaining.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've completed the preliminary analysis of the user survey data. I'll summarize the results tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score is too low. Click here to instantly boost your score by 100 points!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to secure the budget for the new software licenses. Please send me the final quote.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is NOT A JOKE! You have inherited a large sum of money. Reply with your bank details to access the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the new marketing campaign assets for your review. Please confirm they meet brand guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your two-factor authentication has been disabled. Click here to re-enable it immediately for security.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server logs indicate a minor performance issue during peak hours. I'm investigating the root cause.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET PAID $1,000 DAILY! No experience, no effort, just click and earn. Limited opportunity!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need to confirm the catering order for the all-hands meeting. Should I go with Option A or B?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your tax refund is ready. Click the link to finalize the transfer of $5,000 to your bank.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final design files have been uploaded to the design repository. They are ready for implementation.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer has detected 10 viruses. Download our free software to clean your system now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly business review to the board next week. Wish me luck!",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a new match on our dating service! Click here to view their profile and start chatting.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new policy on remote work is now effective. Please familiarize yourself with the guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT ACTION: Your email account has been suspended due to too many login attempts. Click to restore.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized contract terms for the new partnership. Everything looks good on our side.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE GIFT! This exclusive offer is only for you. Enter your details to receive your prize.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The marketing team has launched the new social media campaign. Please share the content on your channels.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your payment is severely overdue. Pay now or face legal action and credit default.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm working on the budget reconciliation for last quarter. Can you send me the final receipts?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been charged $49.99 for a recurring subscription. If you did not authorize this, click here to cancel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee review system will be introduced in the all-hands meeting next week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to know the status of the firewall configuration. Is the security patch deployed?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have a security vulnerability! Download our VPN software to encrypt your data immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We are postponing the company retreat until next quarter due to logistics issues. New dates TBD.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "INCREDIBLE INVESTMENT! Turn $10 into $1,000,000 in one week. Click this secret link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be out of the office for the remainder of the day. Contact my assistant for urgent matters.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your healthcare coverage is about to expire. Renew your policy now to avoid a gap in coverage.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project repository is ready. I've sent the access credentials in a separate secure message.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have an unpaid traffic ticket. Click here to pay the fine immediately or face arrest.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the training materials for the new software. Please review them before the session.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY NOW! This is the fastest way to get rich. Send us your name and phone number to start.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company social club is hosting a movie night this Friday. Snacks and drinks will be provided.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your identity has been confirmed as a winner of the grand lottery prize! Contact us to claim.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a new venue for the offsite meeting. Do you have any suggestions in the downtown area?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your computer will be permanently blocked if you do not download the security software now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication strategy for the upcoming merger announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been detected violating our terms of service. Click here to appeal the suspension.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'll be presenting the quarterly results to the executive team. Can you send me the final data slides?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FREE TRIAL of our exclusive stock trading bot! Get rich quick with zero risk. Click the link!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of project dependencies. We need to prioritize these tasks immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your phone's camera has been hacked! We have compromising photos. Pay the ransom to delete them.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company barbecue is next Saturday. Please RSVP by the end of the week so we can finalize the catering.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the client meeting. Please review the talking points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "URGENT: Your password has been exposed in a data breach. Click here to create a new, secure password now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank account is about to be frozen due to suspicious activity. Verify your identity now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A FREE LAPTOP! Just complete a 5-minute survey to enter the drawing. Limited time offer!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final version of the user guide has been uploaded to the documentation server.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $100 for a purchase you did not authorize. Click here to dispute the charge.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the minutes from the last stakeholder meeting. Please review them for accuracy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time opportunity to invest in a revolutionary new technology. Minimum investment $5,001.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new company code of conduct is attached. Please read and acknowledge it by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have received an anonymous gift. Click here to reveal the sender and the prize!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit behind schedule. Can we push our meeting back by 30 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your car registration is about to expire. Renew it now to avoid hefty fines.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The training session on the new software will be held this Thursday. Attendance is mandatory for all team leads.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MAKE MONEY SLEEPING! Join our exclusive passive income program and earn thousands effortlessly.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've uploaded the finalized budget for Q3. It includes the changes we discussed yesterday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your computer is running slow. Download our optimization tool to speed it up instantly for free!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The maintenance window has been approved for next Saturday. We expect 4 hours of downtime.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major grant! Just pay the $100 processing fee to receive the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the revised client presentation deck. Please use this version for the meeting.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "ATTENTION! You have an urgent voicemail message. Click the attachment to listen now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new hire orientation will be held in conference room A. Please welcome the new employees.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "HUGE SALE! Get 75% off all electronics this weekend only! Don't miss out!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final report on market trends. It contains all the key data points.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your parcel delivery address is incorrect. Click the link to update your details and pay a small fee.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security cameras are being installed next week. Access to the server room will be restricted temporarily.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need help with the SQL query optimization. Are you free for a quick chat later today?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a SECRET government offer! Click here to receive $1,000,000 in untraceable cash.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The company holiday party is canceled due to unforeseen circumstances. We will reschedule soon.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your account has been locked. Enter your username and password on this page to unlock it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've accepted the invitation for the project kick-off meeting next week. I'll bring the coffee.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CONGRATULATIONS! You have won a free iPhone 15! Just pay $1 for shipping and handling.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server migration is complete. Please test your applications and report any issues immediately.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score requires immediate verification. Click the link and enter your SSN.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The external penetration test report is attached. We need to address the high-priority vulnerabilities.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL CHANCE to get this amazing stock at a low price. Buy now before it jumps 500%!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee benefits package is now available. Please review it before the open enrollment period.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a non-secured personal loan with a 0% interest rate for life. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've sent the final contract to the client. We should hear back from them by the end of the week.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer will be remotely wiped if you do not download this security patch immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new version of the software is ready for beta testing. The link and instructions are attached.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "I need to discuss the new project timelines. Can we schedule a quick call tomorrow morning?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET RICH QUICK! Join our exclusive investment club and turn $100 into $1 million in 30 days!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone please show them the ropes on their first day?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your PayPal account has been limited due to unusual activity. Click here to verify your identity.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the finalized marketing budget for Q4. It includes the TV ad spend we discussed.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL NOTICE: Your credit card debt is about to be sold to a collection agency. Pay now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new training materials for the customer service team are ready. Please review and provide feedback.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You have won a free $1,000 gift card! Click here to redeem your winnings and start shopping now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define a clear communication plan for the upcoming product announcement.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your email account password is too weak. Click here to change it to a stronger one immediately.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "MASSIVE SALE! Get 90% off all clothing this weekend only. Shop now and save big!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new security update is scheduled for deployment tonight. Please save all your work before you leave.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your Amazon account has been suspended due to policy violations. Click here to restore service.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've attached the final version of the press release. It's ready for distribution.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "CLAIM YOUR FREE MONEY! This is a government grant only for you. Enter your SSN to receive $5,000.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new project management tool is now live. All project tracking should be moved to the new system.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your computer's IP address has been flagged for illegal activity. Pay the fine now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm sending over the finalized presentation for the board meeting. Please review the appendix slides.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You are eligible for a major settlement payout! Just sign this document and send $100 for processing.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee discount codes are attached. You can use them starting tomorrow at all partner stores.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "FINAL WARNING: Your student loan debt will be sold to a collection agency if you don't pay now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm running a bit late for our meeting. Can we push it back by 15 minutes?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit card has been charged $500 for a purchase you did not authorize. Click here to dispute.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee orientation will be held in conference room B. Please welcome the new hires.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a one-time, secret offer for a mortgage refinance with an impossibly low rate. Apply now!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've included the meeting request for next week. Please accept it when you get a chance.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WIN A TRIP! Enter our sweepstakes for a chance to win a vacation to Paris, including airfare and hotel.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the updated list of company holidays for the next year. Please update your calendars.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "You've been selected to receive a free scholarship! Click here to claim your financial aid.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The department head is requesting a summary of all active projects by end of day Friday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your domain name registration is expiring soon. Click here to renew it immediately and avoid losing your site.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm looking for a vendor who specializes in enterprise cloud solutions. Do you have any recommendations?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "We need to schedule a follow-up meeting with the client to discuss the next phase of the project.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WARNING: Your bank security system detected a major transfer. Click the link to block the transaction.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The team needs to define clear boundaries and roles for the new initiative. Let's talk Monday.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is a mandatory system update. Please enter your full credentials below to proceed with the patch.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm planning the team holiday party. Do you have any suggestions for venues or catering?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "WINNER! You've won a brand new electric car! Just pay the delivery fee of $999 to claim it.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new employee handbook is attached. Please review the updated sick leave policy.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your social security number requires immediate verification. Click the link to update your details now.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The new intern starts next week. Can someone prepare a welcome kit and set up their workstation?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "LAST CHANCE: Get this incredible weight loss supplement at 80% off! Limited stock remaining.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I've completed the preliminary analysis of the user survey data. I'll summarize the results tomorrow.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your credit score is too low. Click here to instantly boost your score by 100 points!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "We need to secure the budget for the new software licenses. Please send me the final quote.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "This is NOT A JOKE! You have inherited a large sum of money. Reply with your bank details to access the funds.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I'm forwarding the new marketing campaign assets for your review. Please confirm they meet brand guidelines.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your two-factor authentication has been disabled. Click here to re-enable it immediately for security.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The server logs indicate a minor performance issue during peak hours. I'm investigating the root cause.",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "GET PAID $1,000 DAILY! No experience, no effort, just click and earn. Limited opportunity!",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "I need to confirm the catering order for the all-hands meeting. Should I go with Option A or B?",
+    "Label": "ham"
+  },
+  {
+    "Email_Text": "Your tax refund is ready. Click the link to finalize the transfer of $5,000 to your bank.",
+    "Label": "spam"
+  },
+  {
+    "Email_Text": "The final design files have been uploaded to the design repository. They are ready for implementation.",
+    "Label": "ham"
+  }]
+}

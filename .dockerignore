@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+.venv
+
+# Ignore the data folder (assuming it's only used for training)
+data/
+
+# Ignore the training script
+train.py
+
+# Docker-specific files to ignore
+Dockerfile .dockerignore

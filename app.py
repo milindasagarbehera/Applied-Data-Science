@@ -112,7 +112,7 @@ def main():
                     font-size: 1.2em;
                     text-align: center;
                 ">
-                    **Prediction:** <span style="color:{color}; font-weight: bold;">{label}</span><br>
+                    **Predaiction:** <span style="color:{color}; font-weight: bold;">{label}</span><br>
                     **Confidence (Spam):** <span style="font-family: monospace;">{confidence_percent}</span>
                 </div>
                 """, unsafe_allow_html=True)

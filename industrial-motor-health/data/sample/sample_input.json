@@ -1,0 +1,18 @@
+{
+  "description": "Sample motor sensor reading for testing prediction API",
+
+  "phase_current_a": 11.2,
+  "phase_current_b": 8.7,
+  "phase_current_c": 10.4,
+
+  "phase_voltage_a": 412,
+  "phase_voltage_b": 410,
+  "phase_voltage_c": 413,
+
+  "temperature": 76,
+  "vibration": 0.8,
+  "resistance": 0.60,
+  "harmonic_distortion": 3.9,
+  "power_factor": 0.87,
+  "load_percent": 72
+}
